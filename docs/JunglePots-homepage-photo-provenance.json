@@ -1,0 +1,34 @@
+[
+  {
+    "position": "HERO",
+    "file": "homepage-assets/riverside-project-0.jpg",
+    "source": "Supplied Jungle pots (1).pdf",
+    "page": 13,
+    "collection": "Riverside Base",
+    "ai_generated": false
+  },
+  {
+    "position": "STUDIO",
+    "file": "collection-assets/big-ben-project-entry.jpg",
+    "source": "Supplied Jungle pots (1).pdf",
+    "page": 2,
+    "collection": "Big Ben Tower",
+    "ai_generated": false
+  },
+  {
+    "position": "RIVERSIDE",
+    "file": "homepage-assets/riverside-project-1.jpg",
+    "source": "Supplied Jungle pots (1).pdf",
+    "page": 13,
+    "collection": "Riverside Base",
+    "ai_generated": false
+  },
+  {
+    "position": "DETAIL",
+    "file": "collection-assets/big-ben-rim.jpg",
+    "source": "Supplied Jungle pots (1).pdf",
+    "page": 2,
+    "collection": "Big Ben Tower",
+    "ai_generated": false
+  }
+]

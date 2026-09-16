@@ -1,0 +1,32 @@
+{
+  "slug": "big-ben-tower",
+  "name": "Big Ben Tower",
+  "source": {"document": "Jungle pots (1).pdf", "pages": [2, 3, 23, 27], "edition": null},
+  "variants": [{
+    "manufacturer_sku": null,
+    "manufacturer_variant_name": null,
+    "measurements": [
+      {"symbol": "A", "meaning": "width", "source_value": 40, "source_unit": "cm", "normalized_mm": 400, "source_page": 27, "status": "catalogue_transcribed"},
+      {"symbol": "B", "meaning": "depth", "source_value": 40, "source_unit": "cm", "normalized_mm": 400, "source_page": 27, "status": "catalogue_transcribed"},
+      {"symbol": "C", "meaning": "overall_height", "source_value": 99, "source_unit": "cm", "normalized_mm": 990, "source_page": 27, "status": "conflicting_sources", "alternate_online_value_cm": 90}
+    ],
+    "capacity": {"value": 30, "unit": "L", "definition": null, "source_page": 27, "status": "catalogue_transcribed"},
+    "weight_kg": null,
+    "steel_thickness_mm": null,
+    "drainage": null
+  }],
+  "materials": {"substrate": "galvanized steel", "coatings": ["primer", "powder coating"], "scope": "general planter specification", "source_page": 23},
+  "finish": {"texture": "sand-textured", "sheen_options": ["matte", "gloss"], "custom_colour_enquiry": true},
+  "colour_references": [
+    {"catalogue_name": "Anthracite", "code": "7016"},
+    {"catalogue_name": "Pale Green", "code": "6021"},
+    {"catalogue_name": "Cappuccino", "code": "1014"},
+    {"catalogue_name": "Pure white", "code": "9010"}
+  ],
+  "photographed_finish_code": null,
+  "use": ["indoor", "outdoor"],
+  "base": "integrated height-adjustable feet",
+  "technical_drawing": {"file": "collection-assets/big-ben-abc.png", "source_page": 27, "to_scale": false},
+  "specification": {"file": "JunglePots-Big-Ben-Tower-specification.pdf", "price_free": true, "approval_status": "catalogue-derived review; manufacturer approval pending"},
+  "related_collection_slugs": ["tower-bridge", "siena-kubo"]
+}

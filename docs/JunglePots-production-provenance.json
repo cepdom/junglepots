@@ -1,0 +1,22 @@
+{
+  "source": "Supplied Jungle pots (1).pdf",
+  "material_finish_claims_page": 23,
+  "images": [
+    {
+      "file": "production-assets/rim.jpg",
+      "collection": "Big Ben Tower",
+      "page": 2
+    },
+    {
+      "file": "production-assets/feet.jpg",
+      "collection": "Big Ben Tower",
+      "page": 2
+    },
+    {
+      "file": "production-assets/joint.jpg",
+      "collection": "Riverside Flow",
+      "page": 9
+    }
+  ],
+  "generated_images": false
+}

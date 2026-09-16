@@ -1,0 +1,121 @@
+{
+ "pass": "refinement-02",
+ "method": {
+  "plates": "whiteness+saturation threshold, enclosed background preserved, edge un-premultiplied, trimmed, placed on a transparent plate with a shared baseline and damped optical-weight normalisation. No generation, retouching or recolouring.",
+  "construction_cutouts": "rim, feet and leg-connection close-ups are alpha-cut at a higher white threshold (240) and shown whole on the page colour, replacing the earlier tight crops (kept in _source-assets/).",
+  "linework": "silhouettes traced from cutout alpha, Douglas-Peucker tolerance 4px. No modelling or idealisation.",
+  "frames": "no white backgrounds anywhere. Index cards keep a plate tint; the detail-page product view, the hero drawing panel and every construction view sit on the paper colour.",
+  "scale": "Objects are NOT shown at a common physical scale. Plate sizing and silhouette sizing are drawing conventions only."
+ },
+ "plates": {
+  "big-ben-tower.png": {
+   "source": "big-ben-tower.jpg",
+   "trimmed": [
+    262,
+    526
+   ],
+   "ink_coverage": 0.1043
+  },
+  "cube-shelf.png": {
+   "source": "cube-shelf.jpg",
+   "trimmed": [
+    918,
+    499
+   ],
+   "ink_coverage": 0.111
+  },
+  "dawn.png": {
+   "source": "dawn.jpg",
+   "trimmed": [
+    594,
+    215
+   ],
+   "ink_coverage": 0.1356
+  },
+  "garden.png": {
+   "source": "garden.jpg",
+   "trimmed": [
+    890,
+    308
+   ],
+   "ink_coverage": 0.0942
+  },
+  "grand-wall.png": {
+   "source": "grand-wall.jpg",
+   "trimmed": [
+    450,
+    215
+   ],
+   "ink_coverage": 0.1739
+  },
+  "pixie.png": {
+   "source": "pixie.jpg",
+   "trimmed": [
+    478,
+    216
+   ],
+   "ink_coverage": 0.1413
+  },
+  "riverside-base.png": {
+   "source": "riverside-base.jpg",
+   "trimmed": [
+    925,
+    425
+   ],
+   "ink_coverage": 0.1443
+  },
+  "riverside-flow.png": {
+   "source": "riverside-flow.jpg",
+   "trimmed": [
+    768,
+    360
+   ],
+   "ink_coverage": 0.1513
+  },
+  "riverside-rise.png": {
+   "source": "riverside-rise.jpg",
+   "trimmed": [
+    712,
+    700
+   ],
+   "ink_coverage": 0.137
+  },
+  "siena-kubo.png": {
+   "source": "siena-kubo.jpg",
+   "trimmed": [
+    332,
+    314
+   ],
+   "ink_coverage": 0.1464
+  },
+  "siena.png": {
+   "source": "siena.jpg",
+   "trimmed": [
+    384,
+    326
+   ],
+   "ink_coverage": 0.1575
+  },
+  "tower-bridge.png": {
+   "source": "tower-bridge.jpg",
+   "trimmed": [
+    252,
+    532
+   ],
+   "ink_coverage": 0.0931
+  }
+ },
+ "new_photography": {
+  "source": "client site jungleflora.lt; products identified by the client's own source filenames",
+  "hero-assets/tower-bridge-project-hero.jpg": "metal-towerbridge - currently unused; held for the Tower Bridge collection page.",
+  "hero-assets/big-ben-project-hero.jpg": "metal-bigben - selected collection 01",
+  "hero-assets/riverside-project-hero.jpg": "metal-riverside - selected collection 02 (relabelled Riverside Flow: the photograph shows a raised base)",
+  "hero-assets/terrace-project.jpg": "tesonet-terasa-6 - homepage HERO band. The client project is NOT named on the page and the planters are NOT attributed to a collection; both need client confirmation before publication."
+ },
+ "open_items": [
+  "Riverside Flow is photographed in a bright green finish; a neutral-finish photograph would settle the palette. Not recoloured.",
+  "Bar Planter still has no isolated catalogue view and keeps its project photograph.",
+  "Big Ben Tower height remains unresolved at 99 vs 90 cm; no dimension is drawn anywhere in the linework.",
+  "CAD/BIM geometry is absent, which is why no 3D model was built."
+ ]
+}

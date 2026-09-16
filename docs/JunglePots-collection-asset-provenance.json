@@ -1,0 +1,465 @@
+[
+ {
+  "file": "collection-assets/big-ben-project-entry.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 2,
+  "collection": "Big Ben Tower",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/big-ben-isolated.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 27,
+  "collection": "Big Ben Tower",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/big-ben-abc.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 27,
+  "collection": "Big Ben Tower",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/big-ben-rim.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 2,
+  "collection": "Big Ben Tower",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/big-ben-feet.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 2,
+  "collection": "Big Ben Tower",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/big-ben-project-lounge.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 3,
+  "collection": "Big Ben Tower",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/tower-bridge-project.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 4,
+  "collection": "Tower Bridge",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/siena-kubo-project.jpg",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 16,
+  "collection": "Siena Kubo",
+  "ai_generated": false,
+  "treatment": "Source extraction, RGB conversion and proportional resize; diagram cropped from original page without price columns."
+ },
+ {
+  "file": "collection-assets/tower-bridge-context-cafe.jpg",
+  "source": "emedelynas.lt retail listing, https://emedelynas.lt/vazonai-/12775-metalinis-vazonas-tower-bridge-40x40x90cm.html",
+  "image_id": 35889,
+  "collection": "Tower Bridge",
+  "ai_generated": false,
+  "treatment": "Downscaled from the listing's 3535x5302 original to 1200x1800. No cutout; a real interior.",
+  "seller": "Jungle flora (named seller on the listing)"
+ },
+ {
+  "file": "collection-assets/tower-bridge-rim.png",
+  "source": "emedelynas.lt retail listing, https://emedelynas.lt/vazonai-/12775-metalinis-vazonas-tower-bridge-40x40x90cm.html",
+  "image_id": 35890,
+  "collection": "Tower Bridge",
+  "ai_generated": false,
+  "treatment": "Downscaled from 4647x3094, studio sweep alpha-cut at white_lo=240, edge un-premultiplied, trimmed. No pixel of the product altered.",
+  "seller": "Jungle flora (named seller on the listing)"
+ },
+ {
+  "file": "collection-assets/tower-bridge-isolated.png",
+  "source": "emedelynas.lt retail listing, https://emedelynas.lt/vazonai-/12775-metalinis-vazonas-tower-bridge-40x40x90cm.html",
+  "image_id": 35891,
+  "collection": "Tower Bridge",
+  "ai_generated": false,
+  "treatment": "Downscaled from 3145x4725, alpha-cut and laid on a 1000x1250 transparent plate at the detail-page baseline. Replaces the 512x770 catalogue crop for viewing; the specification drawing is still traced from the catalogue photograph.",
+  "seller": "Jungle flora (named seller on the listing)"
+ },
+ {
+  "file": "collection-assets/tower-bridge-base.png",
+  "source": "emedelynas.lt retail listing, https://emedelynas.lt/vazonai-/12775-metalinis-vazonas-tower-bridge-40x40x90cm.html",
+  "image_id": 35892,
+  "collection": "Tower Bridge",
+  "ai_generated": false,
+  "treatment": "Downscaled from 4554x3031, studio sweep alpha-cut at white_lo=240, trimmed.",
+  "seller": "Jungle flora (named seller on the listing)"
+ },
+ {
+  "note": "Rights: the listing names Jungle Flora as the seller, so this is the client's own marketplace photography rather than a third party's. Still worth a one-line confirmation before publication, but no longer an open risk.",
+  "collection": "Tower Bridge",
+  "source": "emedelynas.lt retail listing, https://emedelynas.lt/vazonai-/12775-metalinis-vazonas-tower-bridge-40x40x90cm.html",
+  "ai_generated": false,
+  "seller": "Jungle flora (named seller on the listing)"
+ },
+ {
+  "file": "collection-assets/garden-isolated.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 18,
+  "collection": "Garden",
+  "ai_generated": false,
+  "treatment": "Source extraction; white studio sweep removed to alpha by whiteness/saturation thresholding, trimmed to the object and centred on a 1600 x 800 transparent canvas. No pixel of the product altered."
+ },
+ {
+  "file": "collection-assets/garden-suspension.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 18,
+  "collection": "Garden",
+  "ai_generated": false,
+  "treatment": "Crop of the SAME frame as garden-isolated (near-left corner, showing the suspension ring and cap nut); white sweep removed to alpha, resampled to 1300 x 650. No pixel of the product altered."
+ },
+ {
+  "file": "collection-assets/garden-edge.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 18,
+  "collection": "Garden",
+  "ai_generated": false,
+  "treatment": "Crop of the SAME frame as garden-isolated (far-right rolled edge and two cap nuts); white sweep removed to alpha, resampled to 1300 x 650. No pixel of the product altered."
+ },
+ {
+  "file": "related-assets/garden.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 18,
+  "collection": "Garden",
+  "ai_generated": false,
+  "treatment": "The same cutout laid on the family's 880 x 660 related-card plate at the shared ink weight."
+ },
+ {
+  "file": "junglepots-garden.html / spec drawing",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 18,
+  "collection": "Garden",
+  "ai_generated": false,
+  "treatment": "Silhouette traced from the same cutout in plan mode. The two suspension rings hanging below the tray were masked out of the source before tracing and are declared in the drawing caption; nothing was added."
+ },
+ {
+  "note": "Garden has no retail listing anywhere. All 21 Jungle Flora metal-planter listings on emedelynas were enumerated and Garden, Cube Shelf and Bar Planter are absent from all of them; a search of jungleflora.lt returns nothing. The whole page therefore rests on one catalogue photograph, and there is no second source against which to check the safe working load, the tray height or the capacity -- none of which the catalogue publishes.",
+  "collection": "Garden",
+  "source": "emedelynas.lt and jungleflora.lt, enumerated 15-16 Sep 2026",
+  "ai_generated": false
+ },
+ {
+  "file": "collection-assets/cube-shelf-moss-wall.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-17.png)",
+  "page": 17,
+  "collection": "Cube Shelf",
+  "ai_generated": false,
+  "treatment": "Catalogue image p17-3 at native 1400 x 1400, re-encoded only. No crop, no retouching."
+ },
+ {
+  "file": "collection-assets/cube-shelf-three-sizes.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-17.png)",
+  "page": 17,
+  "collection": "Cube Shelf",
+  "ai_generated": false,
+  "treatment": "Catalogue image p17-1 cut with the catalogue's OWN alpha channel, shipped alongside it as p17-2, then centred on a 1600 x 900 transparent canvas. Pixel-exact; no thresholding."
+ },
+ {
+  "file": "collection-assets/cube-shelf-frame.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-17.png)",
+  "page": 17,
+  "collection": "Cube Shelf",
+  "ai_generated": false,
+  "treatment": "Catalogue image p17-0 (a frame photographed without its shelf); white sweep removed to alpha at white_lo=205 because the default threshold read the sweep's faint blue cast as product and filled the frame's openings. Centred on an 1100 x 1100 transparent canvas."
+ },
+ {
+  "file": "collection-assets/cube-shelf-shelf.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-17.png)",
+  "page": 17,
+  "collection": "Cube Shelf",
+  "ai_generated": false,
+  "treatment": "Crop of p17-3 (the same photograph as cube-shelf-moss-wall) on the middle cube's shelf edge, resampled to 1500 x 990. No pixel of the product altered."
+ },
+ {
+  "file": "related-assets/dawn.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 7,
+  "collection": "Dawn",
+  "ai_generated": false,
+  "treatment": "The existing Dawn cutout laid on the family's 880 x 660 related-card plate at the shared ink weight."
+ },
+ {
+  "file": "junglepots-cube-shelf.html / spec drawing",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-17.png)",
+  "page": 17,
+  "collection": "Cube Shelf",
+  "ai_generated": false,
+  "treatment": "Traced from the p17-0 cutout. The tracer walks holes as well as the outer ring, so the eight rings it returns are the frame's own openings; no member was drawn by hand. Letters passed in reverse draw order so A and B land where the page 25 diagram puts them."
+ },
+ {
+  "note": "The full catalogue page renders and every extracted image live on the client's machine at work/catalogue/. This page is the first built from them rather than from a single low-resolution crop in _source-assets/. Page 25 is the authoritative specification sheet for Riverside Rise, Riverside Base and Cube Shelf, and carries prices, which are deliberately not shown.",
+  "collection": "Cube Shelf",
+  "source": "work/catalogue/page-17.png, page-25.png, index-assets/p17-*.jpg",
+  "ai_generated": false
+ },
+ {
+  "file": "collection-assets/riverside-flow-moss-wall.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-09.png)",
+  "page": 9,
+  "collection": "Riverside Flow",
+  "ai_generated": false,
+  "treatment": "Catalogue image p9-3 resampled to 1100 x 1100 and re-encoded. No crop, no retouching."
+ },
+ {
+  "file": "collection-assets/riverside-flow-three-sizes.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-09.png)",
+  "page": 9,
+  "collection": "Riverside Flow",
+  "ai_generated": false,
+  "treatment": "Catalogue image p9-2 (the pale green group). Cut on SATURATION rather than whiteness: the drop shadow carries the planter's own green and sits at almost the same lightness as the pale legs, so the usual test keeps it. Shadow 17, legs 44, bowl 102. A darkness term keeps the black plug caps. Centred on a 1500 x 844 transparent canvas."
+ },
+ {
+  "file": "collection-assets/riverside-flow-leg-joint.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-09.png)",
+  "page": 9,
+  "collection": "Riverside Flow",
+  "ai_generated": false,
+  "treatment": "Catalogue image p9-0 resampled to 1000 x 1000. NOT cut out: it is a close crop on a soft studio gradient rather than a white sweep, so thresholding leaves a rectangle of retained grey."
+ },
+ {
+  "file": "collection-assets/riverside-flow-leg-detail.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-09.png)",
+  "page": 9,
+  "collection": "Riverside Flow",
+  "ai_generated": false,
+  "treatment": "Catalogue image p9-1 resampled to 1000 x 1000. Not cut out, for the same reason as the leg joint."
+ },
+ {
+  "file": "related-assets/riverside-flow.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 9,
+  "collection": "Riverside Flow",
+  "ai_generated": false,
+  "treatment": "The existing index cutout laid on the family's 880 x 660 related-card plate at the shared ink weight."
+ },
+ {
+  "file": "related-assets/riverside-rise.png",
+  "source": "Supplied Jungle pots (1).pdf",
+  "page": 10,
+  "collection": "Riverside Rise",
+  "ai_generated": false,
+  "treatment": "The existing index cutout laid on the family's 880 x 660 related-card plate at the shared ink weight."
+ },
+ {
+  "file": "junglepots-riverside-flow.html / spec drawing",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-09.png)",
+  "page": 9,
+  "collection": "Riverside Flow",
+  "ai_generated": false,
+  "treatment": "Traced from the middle planter of the p9-2 group, which is clear of its neighbours' legs between x 292 and 612. Drawn in the tracer's new 'stand' mode so B runs to the bowl's underside and the leg height sits below it, matching the page 24 diagram. Nothing added."
+ },
+ {
+  "note": "Page 24's diagram settles the B convention the catalogue analysis flagged as open: A spans the rim, B runs from the rim to the UNDERSIDE of the bowl, and 150 is a separate dimension from there to the floor. Overall height is therefore B + 150, and the catalogue publishes no combined figure. The same 150 appears on the Riverside Rise diagram on page 25.",
+  "collection": "Riverside Flow",
+  "source": "work/catalogue/page-24.png",
+  "ai_generated": false
+ },
+ {
+  "note": "Capacity conflict, unresolved by design. Riverside Base 600 and Riverside Flow 600 are published at the same A and B (60 cm, 60 cm) and at different capacities (169 L and 127 L). 169 L is exactly the plain cylinder volume of those dimensions; 127 L is the volume of a cylinder 60 across and 45 tall, i.e. B minus the 150 legs. Every Flow capacity matches the B-minus-150 reading to within a litre, which contradicts the diagram above. The page prints the published figures and the arithmetic side by side and derives nothing.",
+  "collection": "Riverside Flow",
+  "source": "work/catalogue/page-24.png, page-25.png",
+  "ai_generated": false
+ },
+ {
+  "file": "collection-assets/riverside-rise-moss-wall.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-10.png)",
+  "page": 10,
+  "collection": "Riverside Rise",
+  "ai_generated": false,
+  "treatment": "Catalogue image p10-8 resampled to 1100 x 1100 and re-encoded. No crop, no retouching."
+ },
+ {
+  "file": "collection-assets/riverside-rise-three-sizes.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-10.png)",
+  "page": 10,
+  "collection": "Riverside Rise",
+  "ai_generated": false,
+  "treatment": "Catalogue image p10-0 cut with the catalogue's OWN alpha channel, shipped alongside it as p10-1, then centred on a 1400 x 788 transparent canvas. Pixel-exact; no thresholding."
+ },
+ {
+  "file": "collection-assets/riverside-rise-cappuccino.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-10.png)",
+  "page": 10,
+  "collection": "Riverside Rise",
+  "ai_generated": false,
+  "treatment": "Catalogue image p10-4 cut with its own alpha channel p10-5, centred on a 1400 x 788 transparent canvas. Pixel-exact."
+ },
+ {
+  "file": "collection-assets/riverside-rise-legs.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-10.png)",
+  "page": 10,
+  "collection": "Riverside Rise",
+  "ai_generated": false,
+  "treatment": "Crop of p10-8 (the same photograph as riverside-rise-moss-wall) across the stands of two planters, resampled to 1300 x 650. No pixel of the product altered."
+ },
+ {
+  "file": "junglepots-riverside-rise.html / spec drawing",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-10.png)",
+  "page": 10,
+  "collection": "Riverside Rise",
+  "ai_generated": false,
+  "treatment": "Traced from the tallest planter of the p10-4 group (x 560-850), which is clear of its neighbours' legs, using the catalogue's own mask. Drawn in 'stand' mode so B runs down the cylinder and the leg height sits below it, matching the page 25 diagram."
+ },
+ {
+  "note": "Riverside Rise prints one capacity, 31 L, against all three heights. Two readings are set out on the page and neither is chosen: a repeated row (the 600's own figure, under the reading that fits every Riverside Flow row), or a fixed planting liner common to all three (which no source mentions). That reading now explains five published figures out of five across the two collections while contradicting the catalogue diagram that defines B.",
+  "collection": "Riverside Rise",
+  "source": "work/catalogue/page-25.png",
+  "ai_generated": false
+ },
+ {
+  "note": "Riverside Rise stands on FOUR legs; Riverside Flow stands on three. Same 150 mm leg height, same idea, and neither source mentions the difference.",
+  "collection": "Riverside Rise",
+  "source": "work/catalogue/page-10.png",
+  "ai_generated": false
+ },
+ {
+  "file": "collection-assets/riverside-base-cybercity.jpg",
+  "source": "Supplied Jungle pots (1).pdf (PAGE RENDER work/catalogue/page-13.png -- no extracted originals exist for pages 12 and 13)",
+  "page": 13,
+  "collection": "Riverside Base",
+  "ai_generated": false,
+  "treatment": "Cropped from the page render at 772 x 515 and resampled to 1300 x 867. Real CYBERCITY installation photography. If a higher-resolution original exists, this is worth replacing."
+ },
+ {
+  "file": "collection-assets/riverside-base-corridor.jpg",
+  "source": "Supplied Jungle pots (1).pdf (PAGE RENDER work/catalogue/page-13.png -- no extracted originals exist for pages 12 and 13)",
+  "page": 13,
+  "collection": "Riverside Base",
+  "ai_generated": false,
+  "treatment": "Cropped from the page render at 772 x 535 and resampled to 1300 x 901. Same building as the lobby view. Worth replacing if an original exists."
+ },
+ {
+  "file": "collection-assets/riverside-base-planted.jpg",
+  "source": "Supplied Jungle pots (1).pdf (PAGE RENDER work/catalogue/page-12.png -- no extracted originals exist for pages 12 and 13)",
+  "page": 12,
+  "collection": "Riverside Base",
+  "ai_generated": false,
+  "treatment": "Cropped from the page render at 772 x 1008 and resampled to 900 x 1176. Worth replacing if an original exists."
+ },
+ {
+  "file": "collection-assets/riverside-base-moss-wall.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-11.png)",
+  "page": 11,
+  "collection": "Riverside Base",
+  "ai_generated": false,
+  "treatment": "Catalogue image p11-4 resampled to 1100 x 1100 and re-encoded. No crop."
+ },
+ {
+  "file": "collection-assets/riverside-base-three-sizes.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-11.png)",
+  "page": 11,
+  "collection": "Riverside Base",
+  "ai_generated": false,
+  "treatment": "Catalogue image p11-2 cut with its own alpha channel p11-3, centred on a 1400 x 788 transparent canvas. Pixel-exact."
+ },
+ {
+  "file": "junglepots-riverside-base.html / spec drawing",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-11.png)",
+  "page": 11,
+  "collection": "Riverside Base",
+  "ai_generated": false,
+  "treatment": "Traced from catalogue image p11-0 cut with its own alpha channel p11-1. Round mode: A across the rim, B to the floor, matching the page 25 diagram."
+ },
+ {
+  "note": "Riverside Base 300 conflict, now testable. The 400 (40x35, 43 L) and the 600 (60x60, 169 L) are each the plain cylinder volume of their published dimensions to within a litre. The 300 (30x35, 17 L) is not: a plain cylinder would hold 24.7 L. 17 L implies a height of 240 mm, and Jungle Flora's listing gives the Base 300 as 30 x 25 cm. The catalogue's 350 is the only figure in the collection that does not reconcile. The page prints the catalogue unchanged and asks for confirmation; it does not substitute the listing figure.",
+  "collection": "Riverside Base",
+  "source": "work/catalogue/page-25.png + emedelynas.lt listing",
+  "ai_generated": false
+ },
+ {
+  "note": "Cross-collection contradiction, now evidenced from both sides. Riverside Base 600 and Riverside Flow 600 share published A and B (60 cm, 60 cm) and differ in capacity (169 L, 127 L). Riverside Base shows the catalogue using plain cylinder volume; Riverside Flow shows it using A x (B-150) for all four rows; Riverside Rise repeats one figure across three heights. The three pages reduce to a single question about which convention the volumes were computed under.",
+  "collection": "Riverside Base",
+  "source": "work/catalogue/page-24.png, page-25.png",
+  "ai_generated": false
+ },
+ {
+  "file": "collection-assets/pixie-product.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-26.png)",
+  "page": 26,
+  "collection": "Pixie",
+  "ai_generated": false,
+  "treatment": "Catalogue image p26-4 cut with its own alpha channel p26-5. That mask carries the catalogue's drawn A/B/C dimension arrows as thin strokes, so only the LARGEST connected component was kept (cube 91007 px; next largest 856), which drops every arrow. Centred on a 1000 x 1000 transparent canvas."
+ },
+ {
+  "file": "collection-assets/pixie-four-sizes.png",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-26.png)",
+  "page": 26,
+  "collection": "Pixie",
+  "ai_generated": false,
+  "treatment": "Catalogue image p26-0 (no mask shipped for this one); white sweep removed by the standard threshold, upscaled 3x and centred on a 1400 x 788 transparent canvas."
+ },
+ {
+  "file": "junglepots-pixie.html / spec drawing",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-26.png)",
+  "page": 26,
+  "collection": "Pixie",
+  "ai_generated": false,
+  "treatment": "Traced from the same arrow-free cutout with interior=True, which recovers the open top's rim; without it the cube traces as a solid hexagon. Letters passed in reverse draw order so A and B land where the page 26 diagram puts them."
+ },
+ {
+  "note": "Pixie capacity error, unambiguous. A cube's volume is fixed by one number: 150 mm encloses 3.4 L, 170 encloses 4.9, 200 encloses 8.0, 230 encloses 12.2. The catalogue prints 15, 17, 20 and 23 L -- the A dimension in centimetres with cm swapped for L. Unlike every other capacity problem in this catalogue there is no convention that produces these figures. The page prints the table unchanged and shows the enclosed box volume beside it, labelled as geometry and not as a planting capacity.",
+  "collection": "Pixie",
+  "source": "work/catalogue/page-26.png",
+  "ai_generated": false
+ },
+ {
+  "note": "Pixie is the only collection with no photograph: no project, interior, detail or scale reference. It appears only on the specification page as two small isolated renders.",
+  "collection": "Pixie",
+  "source": "work/catalogue/page-26.png",
+  "ai_generated": false
+ },
+ {
+  "note": "FOR THE GARDEN PAGE, not Pixie. Page 26 carries a second footnote under the Garden table: '*Recommended pots: - Nicoli bed pot Clypso Matt 50; Nicoli bed pot Minos Cassetta 45'. So the catalogue names liner pots for Garden by third-party brand and model. The Garden page currently says the tray depth and capacity are unpublished and does not mention liners. Not added unilaterally: it names a third-party manufacturer on a JunglePots page (a commercial decision), and the footnote's ownership is probable rather than certain from the layout. Confirm with the client, then add a liner row to the Garden schedule.",
+  "collection": "Garden",
+  "source": "work/catalogue/page-26.png",
+  "ai_generated": false
+ },
+ {
+  "file": "collection-assets/bar-planter-office.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-20.png)",
+  "page": 20,
+  "collection": "Bar Planter",
+  "ai_generated": false,
+  "treatment": "Catalogue image p20-0 resampled from 1067 x 1600 to 900 x 1350 and re-encoded. No crop, no retouching. It is the only photograph of this collection in existence as far as either source goes."
+ },
+ {
+  "file": "collection-assets/bar-planter-top.jpg",
+  "source": "Supplied Jungle pots (1).pdf (page render work/catalogue/page-20.png)",
+  "page": 20,
+  "collection": "Bar Planter",
+  "ai_generated": false,
+  "treatment": "Crop of the same frame across the worktop and planting aperture, resampled to 1300 x 646. No pixel of the product altered."
+ },
+ {
+  "note": "Bar Planter is the only collection with NO specification of any kind: no dimensions, capacity, material, finish code or variants, and no Jungle Flora listing. The page therefore removes the schedule, the drawing and the colour picker rather than leaving them empty, and states the absence. What the photograph shows is recorded in a separate disclosure labelled observation, not specification.",
+  "collection": "Bar Planter",
+  "source": "work/catalogue/page-20.png",
+  "ai_generated": false
+ },
+ {
+  "note": "NO DRAWING was made for Bar Planter, by decision. Every other page traces the catalogue photograph and checks it against a published dimension; here there is no dimension and the object is half-hidden behind its own planting. A trace would have invented a form.",
+  "collection": "Bar Planter",
+  "source": "work/catalogue/page-20.png",
+  "ai_generated": false
+ },
+ {
+  "note": "FINISH RANGE FINDING. Bar Planter is photographed in a red-brown that is none of the four named swatches, and the same unnamed red-brown appears in the Big Ben Tower photography. Across the thirteen pages the catalogue's own photography contains at least dark grey, pale sage green, pale green, beige and this red-brown; two of the five are unnamed. The published four-colour range does not describe what the catalogue shows.",
+  "collection": "Bar Planter",
+  "source": "work/catalogue/page-20.png, page-02.png, page-23.png",
+  "ai_generated": false
+ }
+]
