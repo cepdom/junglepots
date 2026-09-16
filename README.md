@@ -30,16 +30,16 @@ git init
 git add .
 git commit -m "JunglePots site"
 git branch -M main
-git remote add origin https://github.com/YOUR-USER/junglepots-site.git
+git remote add origin https://github.com/cepdom/junglepots.git
 git push -u origin main
 ```
 
 Then on GitHub: **Settings → Pages → Source: Deploy from a branch →
 `main` / `(root)` → Save.** It is live at
-`https://YOUR-USER.github.io/junglepots-site/` in a minute or two.
+`https://cepdom.github.io/junglepots/` in a minute or two.
 
 For a custom domain, add `junglepots.eu` under Settings → Pages → Custom
-domain, and point a CNAME at `YOUR-USER.github.io` with your registrar.
+domain, and point a CNAME at `cepdom.github.io` with your registrar.
 
 `.nojekyll` matters: without it GitHub Pages runs Jekyll, which silently
 ignores any file or folder whose name starts with an underscore.
