@@ -1,0 +1,147 @@
+[
+  {
+    "collection": "big-ben-tower",
+    "file": "index-assets/refined/big-ben-tower.jpg",
+    "original_size": [
+      3145,
+      4725
+    ],
+    "source": "https://emedelynas.lt/vazonai-/12774-metalinis-vazonas-big-ben-tower-40x40x90cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "tower-bridge",
+    "file": "index-assets/refined/tower-bridge.jpg",
+    "original_size": [
+      3145,
+      4725
+    ],
+    "source": "https://emedelynas.lt/vazonai-/12775-metalinis-vazonas-tower-bridge-40x40x90cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "siena",
+    "file": "index-assets/refined/siena.jpg",
+    "original_size": [
+      800,
+      800
+    ],
+    "source": "https://emedelynas.lt/vazonai-/7165-metalinis-vazonas-siena-95x27x50cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "dawn",
+    "file": "index-assets/refined/dawn.jpg",
+    "original_size": [
+      3056,
+      3057
+    ],
+    "source": "https://emedelynas.lt/sodo-prekes/4547-metalinis-vazonas-dawn-440-44x40cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "riverside-flow",
+    "file": "index-assets/refined/riverside-flow.jpg",
+    "original_size": [
+      3125,
+      4695
+    ],
+    "source": "https://emedelynas.lt/sodo-prekes/4531-metalinis-vazonas-riverside-flow-400-40x50cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "riverside-rise",
+    "file": "index-assets/refined/riverside-rise.jpg",
+    "original_size": [
+      3240,
+      3240
+    ],
+    "source": "https://emedelynas.lt/sodo-prekes/4526-metalinis-vazonas-riverside-rise-600-30x60cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "riverside-base",
+    "file": "index-assets/refined/riverside-base.jpg",
+    "original_size": [
+      3182,
+      3183
+    ],
+    "source": "https://emedelynas.lt/sodo-prekes/4533-metalinis-vazonas-riverside-base-400-40x35cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "siena-kubo",
+    "file": "index-assets/refined/siena-kubo.jpg",
+    "original_size": [
+      2000,
+      1331
+    ],
+    "source": "https://emedelynas.lt/vazonai-/10458-metalinis-vazonas-siena-kubo-44x44x44cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "pixie",
+    "file": "index-assets/refined/pixie.jpg",
+    "original_size": [
+      800,
+      800
+    ],
+    "source": "https://emedelynas.lt/vazonai-/4369-metalinis-vazonas-pixie-230-23x23x23-cm.html",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "grand-wall",
+    "file": "index-assets/refined/grand-wall.png",
+    "original_size": [
+      1703,
+      924
+    ],
+    "source": "https://emedelynas.lt/sodo-prekes/4554-metalinis-vazonas-grand-wall-1400-140x42x74-cm.html",
+    "treatment": "AI-assisted edge cleanup and green colour spill removal",
+    "ai_generated": false,
+    "ai_edited": true
+  },
+  {
+    "collection": "cube-shelf",
+    "file": "index-assets/refined/cube-shelf.png",
+    "original_size": [
+      1448,
+      1086
+    ],
+    "source": "Existing catalogue image",
+    "treatment": "AI-assisted single-product isolation",
+    "ai_generated": false,
+    "ai_edited": true
+  },
+  {
+    "collection": "garden",
+    "file": "collection-assets/garden-isolated.png",
+    "original_size": [
+      1600,
+      800
+    ],
+    "source": "Existing catalogue image",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": false
+  },
+  {
+    "collection": "bar-planter",
+    "file": "index-assets/refined/bar-planter.png",
+    "original_size": [
+      1448,
+      1086
+    ],
+    "source": "AI illustration based on catalogue photos; built-in image generation",
+    "treatment": "CSS framing and multiply blending; source pixels unchanged",
+    "ai_generated": true
+  }
+]

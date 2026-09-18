@@ -1,0 +1,15 @@
+/* Shared collection photography: product, context, detail, then variants. */
+#jp-detail-review .gallery-stage{position:relative;aspect-ratio:1;overflow:hidden;background:#edebe4;isolation:isolate}
+#jp-detail-review .gallery-stage .hero-img{position:absolute;inset:0;width:100%;height:100%;max-width:none;aspect-ratio:auto!important;object-fit:contain;object-position:center;padding:0;transform:none;border-radius:0}
+#jp-detail-review .gallery-stage[data-kind="context"] .hero-img{object-fit:cover}
+#jp-detail-review .gallery-stage[data-kind="product"] .hero-img{inset:auto;width:var(--photo-width);height:auto;left:var(--photo-left);top:var(--photo-top);mix-blend-mode:multiply}
+#jp-detail-review .gallery-stage[data-kind="variants"] .hero-img{padding:6%;box-sizing:border-box;mix-blend-mode:multiply}
+#jp-detail-review .hero-visual figcaption{display:flex;justify-content:space-between;gap:16px;min-height:42px;align-items:start;box-sizing:border-box;font-size:10px;line-height:1.6}
+#jp-detail-review .hero-source{text-align:right}
+#jp-detail-review .image-controls{display:flex;flex-wrap:wrap;gap:0;border-top:1px solid #cccfc4}
+#jp-detail-review .image-controls button{flex:0 1 auto;min-height:44px;padding:12px 14px;background:transparent;border:0;border-bottom:1px solid transparent;color:#676b61;font:10px/1.5 'IBM Plex Mono',monospace;cursor:pointer}
+#jp-detail-review .image-controls button[aria-pressed="true"]{color:#232822;border-bottom-color:#232822}
+#jp-detail-review .image-controls button:focus-visible{outline:2px solid #3e4739;outline-offset:-3px}
+#jp-detail-review .related-photo{position:relative;aspect-ratio:4/3;overflow:hidden;background:#edebe4;isolation:isolate}
+#jp-detail-review .related-photo img{position:absolute!important;max-width:none!important;width:var(--photo-width)!important;height:auto!important;left:var(--photo-left);top:var(--photo-top);padding:0!important;aspect-ratio:auto!important;mix-blend-mode:multiply}
+@media(max-width:600px){#jp-detail-review .hero-visual figcaption{font-size:9px;min-height:46px}#jp-detail-review .image-controls button{padding-inline:10px}}

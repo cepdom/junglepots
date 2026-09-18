@@ -1,0 +1,8 @@
+/* Shared specification placement; product geometry is never stretched. */
+#jp-detail-review #dimensions .section-heading{margin:24px 0 32px!important}
+#jp-detail-review #dimensions .spec-grid{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:8%;align-items:start!important}
+#jp-detail-review #dimensions .drawing{display:flex!important;flex-direction:column;align-items:center;justify-content:flex-start!important;align-self:start!important;padding:0!important;margin:0!important;min-width:0;height:auto!important}
+#jp-detail-review #dimensions .spec-drawing{display:block;width:100%!important;height:430px!important;max-height:none!important;max-width:430px!important;flex:none;overflow:visible}
+#jp-detail-review #dimensions .drawing figcaption{display:block;width:100%;padding-top:18px!important;margin:0!important;min-height:64px;text-align:left}
+#jp-detail-review #dimensions .schedule{padding-top:0!important;margin-top:0!important;align-self:start}
+@container detail (max-width:600px){#jp-detail-review #dimensions .spec-grid{grid-template-columns:minmax(0,1fr);gap:28px}#jp-detail-review #dimensions .spec-drawing{height:320px!important;max-width:320px!important}}

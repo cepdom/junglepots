@@ -1,9 +1,9 @@
 # JunglePots.eu — static site
 
 Twenty pages, thirteen collections. **Plain HTML with no build step** — no
-npm, no bundler, no framework, no dependencies. Every page is self-contained:
-CSS and JS are inline, images are local files, and the only external request is
-the Google Fonts stylesheet.
+npm, no bundler, no framework, no dependencies. Pages use inline CSS and JS plus shared local collection-gallery.css,
+collection-gallery.js and spec-layout.css files. Images are local files,
+and the only external request is the Google Fonts stylesheet.
 
 That means it can be hosted by anything that serves files.
 

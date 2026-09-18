@@ -1,0 +1,21 @@
+{
+  "treatment": "Original product photography; CSS cropping and multiply blending only. No AI retouching on these three displayed images.",
+  "images": [
+    {
+      "section": "hero",
+      "file": "collection-assets/tower-bridge-rim.png",
+      "source": "https://emedelynas.lt/35890-large_default/metalinis-vazonas-tower-bridge-40x40x90cm.jpg",
+      "note": "Existing higher-resolution cutout from the same listing image."
+    },
+    {
+      "section": "construction",
+      "file": "production-assets/flow-joint.jpg",
+      "source": "https://emedelynas.lt/11509-large_default/metalinis-vazonas-riverside-flow-200-20x40cm.jpg"
+    },
+    {
+      "section": "surface",
+      "file": "production-assets/dawn-edge.jpg",
+      "source": "https://emedelynas.lt/11645-large_default/metalinis-vazonas-dawn-440-44x40cm.jpg"
+    }
+  ]
+}
